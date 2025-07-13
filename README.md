@@ -8,3 +8,4 @@ Performs all tasks on behalf of visually impaired individuals.
 - edge_tts
 - transformers
 - pydub
+- ffmpeg

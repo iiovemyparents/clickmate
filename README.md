@@ -1,4 +1,4 @@
-🐀 Clickmate
+# 🐀 Clickmate
 Performs all tasks on behalf of visually impaired individuals.
 
 ## Technologies Used
